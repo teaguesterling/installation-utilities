@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+# Copyright (C) 2014 Teague Sterling, Regents of University of California
+#
 # Usage: ./install-python Python-2.7.6.tgz /opt/python
 #
 # Build and install a static version of python (with dynamic libraries also)

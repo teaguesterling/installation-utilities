@@ -1,4 +1,6 @@
 #!/bin/bash
+#
+# Copyright (C) 2014 Teague Sterling, Regents of University of California
 # 
 # Usage: ./install-rdkit.sh RDKIT_2014_03_1.tgz /opt/python
 #

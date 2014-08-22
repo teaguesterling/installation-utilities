@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Copyright (C) 2014 Teague Sterling, Regents of University of California
+
 # Make RDKit and Virtualenv play nice
 
 # TODO: This should be converted to virtualenv wrapper
